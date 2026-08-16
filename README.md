@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEE1F9,50:C9C2F0,100:E9DFF7&height=220&section=header&text=Deep%20Rathod&fontSize=55&fontColor=32324A&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20Product%20%7C%20Financial%20Analyst&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions;Business+%26+Financial+Analyst;Banking+%7C+Consulting+%7C+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions;Business+%26+Financial+Analyst;Banking+%7C+Consultancy+%7C+Analytics" alt="Typing SVG" />
 
 </div>
 
