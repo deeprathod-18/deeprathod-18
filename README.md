@@ -213,7 +213,7 @@ Built an interactive multi-page Power BI dashboard analyzing 10 years of Califor
 
 <div align="center">
     <sub>
-        🏏&nbsp; Off-screen: cricket, basketball & tennis — will happily debate Kohli's greatness any day
+        🏏&nbsp; Off-Screen : Cricket, Basketball & Tennis — will happily debate Kohli's greatness any day
     </sub>
 </div>
 
