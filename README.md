@@ -90,6 +90,7 @@ I'm a final-year **Computer Engineering** student (Honours in Data Science) at *
 **Finance, Consulting & Analytics**
 
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-7986CB?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-FF6F61?style=for-the-badge)
 ![Financial Modeling](https://img.shields.io/badge/-Financial%20Modelling-6C63FF?style=for-the-badge)
 ![Case&ProblemStructuring](https://img.shields.io/badge/-Case%20%26%20Problem%20Structuring-9575CD?style=for-the-badge)
 ![Strategic Analysis](https://img.shields.io/badge/-Strategic%20Analysis-6C63FF?style=for-the-badge)
@@ -97,7 +98,6 @@ I'm a final-year **Computer Engineering** student (Honours in Data Science) at *
 ![Forecasting&PredictiveAnalytics](https://img.shields.io/badge/-Forecasting%20%26%20Predictive%20Analytics-8E7CC3?style=for-the-badge)
 ![Risk Analytics](https://img.shields.io/badge/-Risk%20Analytics-5E8DE0?style=for-the-badge)
 ![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-7986CB?style=for-the-badge)
-![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-FF6F61?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-FF8C42?style=for-the-badge)
 ![PortfolioAnalytics](https://img.shields.io/badge/-Portfolio%20Analytics-5C6BC0?style=for-the-badge)
 
